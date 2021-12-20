@@ -1,4 +1,4 @@
-###NOTE
+### NOTE
 On Windows instead of ./task you have to use .\task. Everything else is the same
 
 ### 1. Help
