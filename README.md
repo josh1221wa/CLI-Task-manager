@@ -1,3 +1,6 @@
+###NOTE
+On Windows instead of ./task you have to use .\task. Everything else is the same
+
 ### 1. Help
 
 Executing the command without any arguments, or with a single argument help prints the CLI usage.
